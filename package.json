@@ -10,21 +10,21 @@
   },
   "dependencies": {
     "@type-challenges/utils": "^0.1.1",
-    "@typescript-eslint/eslint-plugin": "^5.47.0",
-    "@typescript-eslint/parser": "^5.47.0",
-    "commitlint": "^17.3.0",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "commitlint": "^17.6.7",
     "commitlint-config-cz": "^0.13.3",
     "commitlint-config-git-commit-emoji": "^1.0.0",
     "cz-customizable": "^7.0.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "husky": "^8.0.2",
-    "prettier": "^2.8.1"
+    "husky": "^8.0.3",
+    "prettier": "^2.8.8"
   },
   "author": "cuiyiming1998",
   "license": "ISC",
   "devDependencies": {
-    "@antfu/eslint-config": "^0.39.5",
-    "eslint": "^8.31.0"
+    "@antfu/eslint-config": "^0.39.8",
+    "eslint": "^8.45.0"
   }
 }
